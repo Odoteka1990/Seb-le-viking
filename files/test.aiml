@@ -3,7 +3,7 @@
 
 <category>
   <pattern>HI</pattern>
-  <template>Hello Mister/Mrs</template>
+  <template>Coucou</template>
 </category>
 
 <category>
@@ -20,4 +20,12 @@
     <pattern>My name is Claire</pattern>
     <template>Sweet Name</template>
 </category>
+
+<category>
+    <pattern>Quel temps fait il</pattern>
+    <template>Oui il fait très beau </template>
+</category>
+
+<category><pattern>Est ce qu'il fait beau</pattern><template><srai>QUEL TEMPS FAIT IL</srai></template></category>
+
 </aiml>
