@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aiml version="2.0">
+
+<category>
+  <pattern>HI</pattern>
+  <template>Hello Mister/Mrs</template>
+</category>
+
+<category>
+    <pattern>I would like to ask you some questions to find out more about your centre</pattern>
+    <pattern>Yes, I am listening</pattern>
+</category>
+
+<category>
+    <pattern>Where is your center located?</pattern>
+    <template>To Angoulême </template>
+</category>
+
+<category>
+    <pattern>My name is Claire</pattern>
+    <template>Sweet Name</template>
+</category>
+</aiml>
