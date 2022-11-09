@@ -7,6 +7,18 @@
 </category>
 
 <category>
+  <pattern>Toto</pattern>
+  <template>Tata</template>
+</category>
+
+<category>
+  <pattern>[a-z][a-z][a-z]</pattern>
+  <pattern>[a-z][a-z][a-z]</pattern>
+  <template>Pouet</template>
+</category>
+
+
+<category>
     <pattern>I would like to ask you some questions to find out more about your centre</pattern>
     <pattern>Yes, I am listening</pattern>
 </category>
